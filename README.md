@@ -44,12 +44,12 @@ cat refs/heads/master
 
 ## Диаграммы
 Используется Mermaid
-``mermaid
+```mermaid
 График TD;
 A--> B;
 A--> C;
 B--> D
 C--> D;
-``
+```
 
 ## *Спасибо!*
