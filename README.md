@@ -15,7 +15,7 @@
 1. Создание репозитория на ПК git init
 2. Просмотр конфига cat ~/.gitconfig
 3. Создание SSH-ключа ssh-keygen -t ed25519 -C "электронная почта, к которой привязан ваш аккаунт на GitHub" 
-4. Привязка репозитория ggit remote add origin SSHключGItHub
+4. Привязка репозитория git remote add origin SSHключGItHub
 5. Проверить подключение к GitHub git remote -v
 6. Создать коммит git commit -m ""
 7. отправка файлов в репозиторийgit push origin mastet/не помню
