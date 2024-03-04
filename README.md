@@ -52,4 +52,16 @@ B--> D
 C--> D;
 ```
 
+Подерживаются типы диаграмм:
+* Блок-схемы (Flowchart)
+* Диаграммы состояния (Sequence diagram)
+* Диаграммы Ганта (Gantt diagram)
+* UML-диаграммы классов (Class diagram)
+* Графы git (Git graph)
+* ER-диаграммы (Entity Relationship Diagram)
+* Диаграммы пользовательского пути (User Journey Diagram)
+* Диаграммы последовательности (Sequence diagrams)
+* Круговые диаграммы (Pie chart)
+
+
 ## *Спасибо!*
