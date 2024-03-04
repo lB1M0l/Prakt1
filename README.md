@@ -45,7 +45,7 @@ cat refs/heads/master
 ## Диаграммы
 Используется Mermaid
 ```mermaid
-График TD;
+graph TD;
 A--> B;
 A--> C;
 B--> D
