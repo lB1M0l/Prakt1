@@ -1,1 +1,1 @@
-/test.txt
+~/GitОбучение/Prakt1/test.txt
