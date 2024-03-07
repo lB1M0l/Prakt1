@@ -1,1 +1,1 @@
-~/GitОбучение/Prakt1/test.txt
+.log
